@@ -4,3 +4,6 @@
 [submodule "test/infs2605-20t3-ExampleCompoundAdvance"]
 	path = test/infs2605-20t3-ExampleCompoundAdvance
 	url = https://github.com/joshua-qiu-sys/Projects.git
+[submodule "infs2605-20t3-ExampleCompoundAdvance"]
+	path = infs2605-20t3-ExampleCompoundAdvance
+	url = ./infs2605-20t3-ExampleCompoundAdvance
