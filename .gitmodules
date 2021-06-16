@@ -7,3 +7,6 @@
 [submodule "infs2605-20t3-ExampleCompoundAdvance"]
 	path = infs2605-20t3-ExampleCompoundAdvance
 	url = https://github.com/joshua-qiu-sys/infs2605-20t3-ExampleCompoundAdvance.git
+[submodule "INFS2605-Procurement-System-Group-Assignment"]
+	path = INFS2605-Procurement-System-Group-Assignment
+	url = https://github.com/joshua-qiu-sys/INFS2605-Procurement-System-Group-Assignment.git
